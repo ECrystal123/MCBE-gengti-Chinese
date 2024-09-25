@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "des",
+        "name": "梗体中文",
+        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 21, 0 ]
+    },
+    "modules": [
+        {
+            "description":"des",
+            "type": "resources",
+            "uuid": "743f6949-53be-44b6-b326-398005028819",
+            "version": [0, 1, 0]
+        }
+    ]
+}
